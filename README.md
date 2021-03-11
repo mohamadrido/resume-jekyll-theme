@@ -14,5 +14,5 @@ You can fork and use this theme from here, feel free to removing the footer cred
 ## Quick Start Guide
 
    <b>1.</b> Fork this <a href="https://mohamadrido.github.io/resume-jekyll-theme">Resu,e Jekyll Theme</a><br/>
-   <b>2.</b> Go to the "Settings" scroll down to GitHub Pages Source, and select the <i>gb-pages</i> Branch.
+   <b>2.</b> Go to the "Settings" scroll down to GitHub Pages Source, and select the <i>gb-pages</i> Branch.<br/>
    <b>3.</b> Back to the main repository, and select the <i>gb-pages</i> from Branch tree to edit <i>_config.yml</i> and <i>index.html</i> file.
