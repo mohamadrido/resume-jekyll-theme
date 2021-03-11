@@ -1,5 +1,5 @@
 # resume-jekyll-theme
-##vResponsive Two Column Layout
+## Responsive Two Column Layout
 
 <a href="https://mohamadrido.github.io/resume-jekyll-theme">Cards Jekyll Theme</a> is Responsive Two Column Layout for online portofolio with features:
 
